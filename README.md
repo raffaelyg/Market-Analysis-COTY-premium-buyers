@@ -38,7 +38,7 @@ Note: Sensitive market data has been indexed or jittered to protect professional
 | 02	| Polarisation	| ![Polarisation](/images/Slide2.jpeg)	| **Segment Inflow**: Data proving the shift toward the extreme ends of the price ladder. |
 | 03	| Category Mix	| ![MC Penetration](/images/Slide3.jpeg)	| **Traction Centres**: Essence Water and Creams as the dominant Ultra-Premium entry points. |
 | 04	| Category by Pen%	| ![Category Mix](/images/Slide4.jpeg)	| **Traction Centres**: Understanding segments true popularity in the past year by number of buyers. |
-| 05	| Growth Attribution	| ![Growth Attribution](/images/Slide5.jpeg)	| **Waterfall Analysis**: Decoupling the drivers of value gain (+623m) vs. loss in mainstream segments. |
+| 05	| Growth Attribution	| ![Growth Attribution](/images/Slide5.jpeg)	| **Opportunity Defining**: Finding out which segment holds the most growth potential for buyer extension and upselling space. |
 | 06	| Switching Logic	| ![Switching Logic](/images/Slide6.jpeg)	| **Competitive Cohorts**: by Age Consumption and Penetration analysis, Finding the next target audience. |
 | 07	| Seasonality Highlights	| ![Functional Matrix](/images/Slide7.jpeg)	| **Demand Mapping**: Identifying the specific seasonal rush for smapling and gifting demands. |
 | 08	| Promotion Effectiveness	| ![Price Dynamics](/images/Slide8.jpeg)	| **Promotion Effectiveness**: Data ahve shown that buyers entered via samples and gifts are likely to become new buyers. |
